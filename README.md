@@ -3,22 +3,3 @@
 
 Text
 
-## List 39
-
-Text
-
-## Aidex.directory
-
-Text
-
-### Humanitarian Working Group
-
-Text
-
-### Test Projects
-
-Text
-
-### Get Involved
-
-Text
