@@ -56,7 +56,7 @@ Initially, the Aid Exchange project will focus on helping aid organizations deve
 
 ### Basic Projects
 
-* HTML Parsing Agent: Aid organizations rely on website information to inform AI search engines about their organizations, missions and operations. The project will guide organizations through generating facts files on their organizations and setting up their first agents able to parse abd relay this information to other agents. The project would help organizations campare AI search engine outputs and AI agent outputs and carry out comparative testing and A/B testing.
+* HTML Parsing Agent: Aid organizations rely on website information to inform AI search engines about their organizations, missions and operations. The project will guide organizations through generating facts files on their organizations and setting up their first agents able to parse and relay this html information to other agents. The project would help organizations campare AI search engine outputs to AI agent outputs and carry out comparative testing and A/B testing.
 * XML Data Parsing Agent: Aid organizations commonly use open data sharing frameworks to make granular information about their organizations and activities accessible to machine applications. The project will guide organizations through generating informational XML files and setting up agents able to parse and relay information found in XML files to other agents. 
 * Transaction Agent: The project will help organizations set up simplified agents able to make and receive micro-transactions. 
 * XML Reporting Agent: The project will help organizations set up agents able to generate transaction logs and report transactions in XML.
