@@ -1,6 +1,6 @@
 ![NANDA Sub-directory](https://github.com/Aidex-Directory/About/blob/main/media/AidExchange1000.png)
 
-The **Aid Exchange Directory** ([aidex.directory](https://aidex.directory/)) is an experimental NANDA Index sub-directory specifically developed for humanitarian aid organizations and their partners to use to register their AI agents. The sub-directory is designed to be a primary gateway for aid organizations to interface with the broader Project NANDA ecosystem. The gateway also enables aid organizations to get involved in project NANDA as a working group. 
+The **aidex.directory** is an experimental **NANDA Index** sub-directory specifically developed for the humanitarian community. It provides aid organizations and their partners with a **registry** for their AI agents, facilitating discovery, authentication and integration into the NANDA ecosystem, and a **gateway** to collectively interface with Project NANDA and participate in foundation-laying agentic AI research, development and testing activities benefitting the humanitarian sector.
 
 ## Project NANDA
 
@@ -14,53 +14,40 @@ To ensure the integrity and trustworthiness of the agent network, NANDA incorpor
 
 ## NANDA Index
 
-The **NANDA Index** is an open agent registry for discovering and managing autonomous agents. Agent owner/developers use the registry to publish agent JSON facts files and agent metadata facilitating agent-to-agent discovery, authentication and interaction. Project NANDA's vision is a decentralized agentic web linking AI agents and interoperable public and private agent fact registries, each established and managed by different organizations and initiatives.
+The **NANDA Index** is an open registry for autonomous AI agents. It stores agent metadata and machine-readable JSON “facts” files that describe an agent's identity, capabilities, endpoints, and policies. The Index enables reliable discovery, authentication, interaction, and lifecycle management across heterogeneous systems.
+
+![Agent Facts](https://github.com/Aidex-Directory/About/blob/main/media/Agent-Facts-Fields.png)
+
+Project NANDA envisions a decentralized agentic web in which agents are linked through interoperable public and private facts registries operated by different organizations and initiatives but adhering to shared standards to ensure portability and trust. [List39](https://list39.org/) is a Project NANDA aligned vendor-neutral registry enabling AI agent discovery, capability declaration, and trust establishment in distributed agentic systems. List39 and the NANDA Index showcase how registries should function and work together to establish information sharing norms and best practices.
 
 ## Aid Exchange Directory
 
-![Aidex Logo](https://github.com/Aidex-Directory/About/blob/main/media/Aidex_Right_Small.png)
+![Aidex Logo](https://github.com/Aidex-Directory/About/blob/main/media/Aidex_Right_Small_cropped.png)
 
-The **aidex.directory** is a NANDA Index sub-directory that is being built specifically to address the needs of the global humanitarian aid community. It establishes a dedicated NANDA Indext sub-directory for humanitarian organizations and their partners.
+The [aidex.directory](https://aidex.directory) was created to serve the global humanitarian aid community. It establishes a dedicated agent facts registry for AI agents developed by aid organizations and their partners. Like the NANDA Index, the directory facilitates discovery, authentication and the integration of agents into the NANDA ecosystem and the broader internet of AI agents. The **Aid Exchange** (Aidex) initiative and the **aidex.directory** provide organizations with a gateway to interface with Project NANDA and contribute to the overall development of an agentic internet that is safe, effective, and ethically aligned with the missions and values of member organizations.
 
-Project NANDA leverages and extends existing frameworks like Anthropic's Model Context Protocol (MCP) and Google's Agent2Agent (A2A) protocol. "The aidex.directory initiative will enable members to integrate concepts and standards from these and other projects, notably project [LOKA](https://arxiv.org/abs/2504.10915) affiliated with Carnegie Mellon University, directly into their agents and agent documentation.
+### Aidex.directory and File Repository
 
-This initiative provides a tailored platform for these organizations to register their specialized AI agents, incorporating additional metadata fields critical for the humanitarian context, such as operational sector (e.g., health, logistics, protection), geographic focus, language capabilities, and adherence to humanitarian principles and data privacy standards. Beyond simply acting as a registry, this sub-directory is designed to be the primary gateway for aid organizations to interface with the broader Project NANDA ecosystem. It offers a structured on-ramp for them to connect their agents, collaborate on shared challenges, and actively contribute to the development of a distributed AI infrastructure that is safe, effective, and ethically aligned with the mission of serving vulnerable populations.
+Structurally, the Aidex registry mirrors the NANDA Index and List39. But it adds extra **standard fields** developed by aid organizations and the broader humanitarian community incorporating sector specific priorities and research objectives. Organizations can also add **experimental fields** to their Agent Facts Files. They can use these to link their agents to operational initiatives or focus areas, incorporate lessons from humanitarian open data sharing efforts, and integrate concepts and standards from other projects like Carnegie Mellon's [Project LOKA](https://arxiv.org/abs/2504.10915) or from the [International Aid Transparency Initiative](https://iatistandard.org/en/) (IATI) into their agents and documentation.
 
-### List39
+![Aidex Agent Facts](https://github.com/Aidex-Directory/About/blob/main/media/Additional-Fields.png)
 
-The aidex.directory builds on the NANDA Index and on [List39](https://list39.org/) which is another registry. **List39** is a vendor-neutral registry enabling agent discovery, capability declaration, and trust establishment in distributed agentic systems. For reference, the List's fields are as follows:
+To support collaboration and early stage testing, organizations can use the registry as a **data repository** and **file storage bucket**, enabling organizations to run reliable, shared tests of core agent functions like agent-to-agent interaction and knowledge exchange.
 
-| List39 Fields  | Description |
-| ------------- | ------------- |
-| Username  | This will be your agent's public URL: /@username.json  |
-| Agent Name  | My AI agent  |
-| Label  | My AI agent  |
-| Description  | Describe what your agent does  |
-| Version  | Version number  |
-| Jurisdiction  | Country  |
-| Document URL  | https://... address  |
-| Document Template  | https://... address  |
-| Provider Name  | Your organization  |
-| Provider URL  | https://... address  |
-| Static endpoints  | API endpoints  |
-
-Aid organizations involved in the aidex.directory initiative will disscuss and collaboratively develop agent metadata fields and agent fact sheet templates for organizations to use. Information fields will incorporate lessons learned from humanitarian open data sharing initiatives such as [IATI](https://iatistandard.org/en/), managed by the International Aid Transparency Initiative.
-
-### File Registry and Storage
-
-To enhance collaboration, the aidex.directory uniquely provides integrated storage for both public and private data files. This shared repository enables organizations to more easily conduct foundational, collaborative tests on core functions like agent-to-agent interaction and knowledge exchange.
+![File Storage](https://github.com/Aidex-Directory/About/blob/main/media/Registry-Repo.png)
 
 ## Research Projects
 
-Initially, the Aid Exchange project will focus on helping aid organizations develop rudamentary agents, register these through the NANDA Index via the aidex.directory and experiment with agent-to-agent interaction. Follow-up research will examine critical facets of agentic systems, focusing on three key areas: the internal logic of an agent (reflection and reasoning, identity, and wallets); the external dynamics of collaboration, human interaction, and coordination protocols; and the overarching ethical considerations that guide development.
+The Aidex initiative is designed to support agentic research, development and testing and to establish a framework through which organizations can collaborate on setting up and registering their first AI agents. Then organizations can experiment with basic interactions and knowledge sharing. Follow-up research will examine critical facets of agentic systems, focusing on three key areas: the internal logic of an agent (reflection and reasoning, identity, and wallets); the external dynamics of collaboration, human interaction, and coordination protocols; and the overarching ethical considerations that guide development.
 
-### Basic Projects
+![Searc Agents](https://github.com/Aidex-Directory/About/blob/main/media/Registry-Repo-Research.png)
 
-* HTML Parsing Agent: Aid organizations rely on website information to inform AI search engines about their organizations, missions and operations. The project will guide organizations through generating facts files on their organizations and setting up their first agents able to parse and relay this html information to other agents. The project would help organizations campare AI search engine outputs to AI agent outputs and carry out comparative testing and A/B testing.
-* XML Data Parsing Agent: Aid organizations commonly use open data sharing frameworks to make granular information about their organizations and activities accessible to machine applications. The project will guide organizations through generating informational XML files and setting up agents able to parse and relay information found in XML files to other agents. 
-* Transaction Agent: The project will help organizations set up simplified agents able to make and receive micro-transactions. 
-* XML Reporting Agent: The project will help organizations set up agents able to generate transaction logs and report transactions in XML.
+### AI Search Engines vs AI Agents
+
+As AI-powered search evolves and AI agents play greater roles in improving and facilitating search and knowledge sharing, aid organizations and their partners will need to increasingly understand how to adapt their communications and reporting strategies and approaches as well as learn how to adapt their AI agents.
+
+* Projects - under construction
 
 ## Get Involve
 
-A host of private secotr technology companies, academic institutions, investors and open source communities are involved in project NANDA. For humanitarina aid organizations wishing to get involved or following the initiative contact: team(at)humanitarianai.org
+Private sector technology companies, academic institutions, investors, startups, and open source communities are involved in project NANDA. For humanitarian aid organizations wishing to get involved or following the initiative contact: team(at)humanitarianai.org
