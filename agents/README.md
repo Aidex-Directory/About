@@ -24,14 +24,21 @@ Welcome to the **Agentic Systems Sandbox**! This repository contains a suite of 
 - **Function:** Facilitates micro-transactions—enabling agents to charge for certain services/data and pay other agents or organizations for theirs.
 - **Purpose:** Lets organizations prototype agent-powered, pay-per-use models and incentivize open contributions safely.
 
+### 6. Papers Agent
+- **Role:** Parses PDF documents and answers both standardized and custom questions about their content. Enables query monitoring and parser/model improvement.
+- **Purpose:** Unlocks insights from reports and papers, supports custom document parsing, and advances transparency and knowledge management.
+
 ## 🕸️ How the Agents Work Together
 
 These agents are designed for **modularity and interoperability**, making it easy for organizations to test any agent by itself or combine them into more complex workflows using the Orchestration Agent.
 
-**Example flow:**
-1. A user queries the Orchestration Agent about the organization’s mission and most recent project.
-2. The Orchestration Agent routes “mission” to the About Agent and “project info” to the IATI Activities Agent.
-3. The user requests a premium report—the Orchestration Agent invokes the Micro-Payments Agent to handle billing before releasing the data.
+**Example workflow:**
+1. A user asks about the organization’s mission and current activities.
+2. The Orchestration Agent sends the mission query to the About Agent, and project queries to the IATI Activities Agent.
+3. If the user requests a detailed report from a research paper, the Orchestration Agent invokes the Papers Agent for answers.
+4. Accessing premium analyses or reports? The Orchestration Agent and Micro-Payments Agent handle payment and release the requested information.
+
+This flexible design helps organizations move from simple experiments to production-grade, federated agentic systems.
 
 This architecture promotes **composability**: new features, data sources, or payment models can be added as new agents or modules.
 
@@ -45,6 +52,9 @@ This architecture promotes **composability**: new features, data sources, or pay
 
 - **Flexible Experimentation:**  
   Organizations can start small—pick just one agent—and grow as their comfort and needs evolve.
+
+- **Real Organizational Value:**  
+  Answer questions, serve data, manage papers, or facilitate payments—all automated.
 
 - **Capacity Building:**  
   By testing these systems, staff and volunteers learn the foundations of agentic AI, setting the stage for more ambitious digital transformation.
