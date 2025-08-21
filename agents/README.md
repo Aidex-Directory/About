@@ -8,7 +8,7 @@ Welcome to the **Agentic Systems Sandbox**! This repository contains a suite of 
 - **Function:** Acts as the organization’s digital ambassador, answering questions based on the official mission statement and publicly available information.
 - **Purpose:** Provides an easy, low-risk entry point for experimenting with agent technology.
 
-### 2. Orchestration Agent
+### 2. Orchestrator Agent
 - **Function:** Serves as the central coordinator. Receives incoming requests and routes them to the appropriate specialized agent (About Agent, IATI Org Agent, IATI Activities Agent, Micro-Payments Agent, etc.).
 - **Purpose:** Enables modular system design, allowing organizations to add or upgrade services without restructuring their agent setup.
 
