@@ -4,7 +4,7 @@ The **IATI Activities Agent** is an open source AI agent that enables organizati
 
 ## 🌍 What is IATI Activity Data?
 
-**IATI Activity XML** files are the heart of IATI reporting, containing rich, structured information about an organization’s individual aid and development projects—including objectives, sectors, budgets, participating organizations, results, locations, and timelines. Publishing this data supports global transparency, project coordination, and evidence-based decision-making.
+**IATI Activity XML** files are the heart of IATI reporting, containing rich, structured information about an organization’s individual aid and development projects, including objectives, sectors, budgets, participating organizations, results, locations, and timelines. Publishing this data supports global transparency, project coordination, and evidence-based decision-making.
 
 ## 🤖 What Does the IATI Activities Agent Do?
 
