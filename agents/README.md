@@ -56,8 +56,6 @@ This project is also a **hub for collaborative learning and co-creation**:
 - The modular codebase ensures easy onboarding for new contributors and fast experimentation for organizations of all sizes.
 - Contributions are welcome—from bug fixes to new agent ideas and documentation.
 
----
-
 ## 🧩 Getting Started
 
 1. Clone this repository and browse each agent’s README for setup instructions.
