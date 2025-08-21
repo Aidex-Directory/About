@@ -1,6 +1,7 @@
 # Aid Exchange Directory
 
-The **aidex.directory** is an experimental **NANDA Index** sub-directory specifically developed for the humanitarian community. It provides aid organizations with a **registry** for their AI agents, facilitating discovery, authentication and integration into the NANDA ecosystem and the broader internet of AI agents. The **Aidex** initiative provides aid organizations with a **gateway** to interface with Project NANDA and join pioneering agentic AI research, development and testing benefitting the humanitarian sector.
+The **aidex.directory** is an agent facts registry purpose-built for the humanitarian community offering seamless interoperability with the **NANDA Index**.
+It provides aid organizations with a **registry** for their AI agents, facilitating discovery, authentication and integration into the NANDA ecosystem and the broader internet of AI agents. The **Aidex** initiative provides aid organizations with a **gateway** to interface with Project NANDA and join pioneering agentic AI research, development and testing benefitting the humanitarian sector.
 
 ![Aidex](https://github.com/Aidex-Directory/About/blob/main/media/AidExchange800.png)
 
