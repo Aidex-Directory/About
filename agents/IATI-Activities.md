@@ -1,6 +1,6 @@
 # IATI Activities Agent
 
-The **IATI Activities Agent** is an open source AI agent that enables organizations to expose and share comprehensive data from their IATI (International Aid Transparency Initiative) Activity XML files. This agent provides structured, standards-compliant access to the details of an organization’s aid activities—improving transparency, discoverability, and data interoperability across the humanitarian and development sectors.
+The **IATI Activities Agent** is an open source AI agent that enables organizations to expose and share comprehensive data from their IATI (International Aid Transparency Initiative) Activity XML files. This agent provides structured, standards-compliant access to the details of an organization’s aid activities, improving transparency, discoverability, and data interoperability across the humanitarian and development sectors.
 
 ## 🌍 What is IATI Activity Data?
 
