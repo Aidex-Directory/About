@@ -1,6 +1,6 @@
-# Agentic Systems Playground: Agents for Transparent, Interoperable, and Collaborative Organizations
+# Agentic Systems Sandbox: Agents for Transparent, Interoperable, and Collaborative Organizations
 
-Welcome to the **Agentic Systems Playground**! This repository contains a suite of open source agents designed to help organizations—from small NGOs to large networks—experiment with safe, composable, and transparent agentic systems. Here, organizations can start small, build practical knowhow, and prepare for a future shaped by collaborative AI.
+Welcome to the **Agentic Systems Sandbox**! This repository contains a suite of open source agents designed to help organizations—from small NGOs to large networks—experiment with safe, composable, and transparent agentic systems. Here, organizations can start small, build practical knowhow, and prepare for a future shaped by collaborative AI.
 
 ## 🤖 Overview: The Suite of Agents
 
