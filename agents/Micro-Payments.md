@@ -1,6 +1,6 @@
 # Micro-Payments Agent
 
-The **Micro-Payments Agent** is an open source agent designed to empower organizations to experiment with digital payments—enabling their agents to seamlessly handle micro-transactions for services or data provided and to make payments to other organizations’ agents. This agent helps organizations explore new business models, incentivize contributions, and support sustainable agent ecosystems.
+The **Micro-Payments Agent** is an open source agent designed to empower organizations to experiment with digital payments, enabling their agents to seamlessly handle micro-transactions for services or data provided and to make payments to other organizations’ agents. This agent helps organizations explore new business models, incentivize contributions, and support sustainable agent ecosystems.
 
 ## 💸 What is the Micro-Payments Agent?
 
