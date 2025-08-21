@@ -2,7 +2,7 @@
 
 About Agent: Open Source AI For Organizational Mission Sharing
 
-The **About Agent** is an open source project that enables humanitarian, nonprofit, and mission-driven organizations to share their mission statements and core information via lightweight, safe, and composable AI agents. These agents can explain what an organization does—acting as digital ambassadors that provide clear, trustworthy facts to humans or other agents. The About Agent can be deployed as a simple API, a cached script, or a component in multi-agent systems.
+The **About Agent** is an open source project that enables humanitarian, nonprofit, and mission-driven organizations to share their mission statements and core information via lightweight, safe, and composable AI agents. These agents can explain what an organization does, acting as digital ambassadors that provide clear, trustworthy facts to humans or other agents. The About Agent can be deployed as a simple API, a cached script, or a component in multi-agent systems.
 
 ## 🚀 Why About Agent?
 
