@@ -1,6 +1,6 @@
 # 🧩 Orchestration Agent
 
-The **Orchestration Agent** acts as the central coordinator for all organization-specific agents. Its main role is to receive incoming queries or tasks and intelligently route each request to the appropriate specialized agent—such as the About Agent, Contact Agent, or Application Agent.
+The **Orchestration Agent** acts as the central coordinator for all organization-specific agents. Its main role is to receive incoming queries or tasks and intelligently route each request to the appropriate specialized agent, such as the About Agent, Contact Agent, or Application Agent.
 
 - **How it works:**  
   The Orchestration Agent analyzes each request (e.g., informational, contact, application) and forwards it to the matching agent for handling. If a request matches multiple domains, the orchestrator can aggregate responses from several agents before replying.
