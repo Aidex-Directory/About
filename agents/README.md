@@ -1,4 +1,4 @@
-# Agentic Systems Sandbox: Agents for Transparent, Interoperable, and Collaborative Organizations
+# Agentic Systems Sandbox: Transparent, Interoperable, and Collaborative Agents for Organizations
 
 Welcome to the **Agentic Systems Sandbox**! This repository contains a suite of open source agents designed to help organizations, from small NGOs to large networks, experiment with safe, composable, and transparent agentic systems. Here, organizations can start small, build practical knowhow, and prepare for a future shaped by collaborative AI.
 
@@ -21,7 +21,7 @@ Welcome to the **Agentic Systems Sandbox**! This repository contains a suite of 
 - **Purpose:** Makes project portfolios discoverable and machine-readable, enabling evidence-based analysis and reporting.
 
 ### 5. Micro-Payments Agent
-- **Function:** Facilitates micro-transactions—enabling agents to charge for certain services/data and pay other agents or organizations for theirs.
+- **Function:** Facilitates micro-transactions, enabling agents to charge for certain services/data and pay other agents or organizations for theirs.
 - **Purpose:** Lets organizations prototype agent-powered, pay-per-use models and incentivize open contributions safely.
 
 ### 6. Papers Agent
