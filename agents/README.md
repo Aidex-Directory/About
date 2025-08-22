@@ -18,7 +18,7 @@ Welcome to the **Agentic Systems Sandbox**! This repository contains a suite of 
 
 ### 4. IATI Activities Agent
 - **Function:** Exposes comprehensive project or activity information based on the organization’s IATI Activity XML files.
-- **Purpose:** Makes project portfolios discoverable and machine-readable—enabling evidence-based analysis and reporting.
+- **Purpose:** Makes project portfolios discoverable and machine-readable, enabling evidence-based analysis and reporting.
 
 ### 5. Micro-Payments Agent
 - **Function:** Facilitates micro-transactions—enabling agents to charge for certain services/data and pay other agents or organizations for theirs.
