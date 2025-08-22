@@ -4,7 +4,7 @@ Welcome to the **Agentic Systems Sandbox**! This repository contains a suite of 
 
 ## 🤖 Overview: The Suite of Agents
 
-### 1. About Agent
+### 1. [About Agent](https://github.com/Aidex-Directory/About/blob/main/agents/About-Org.md)
 - **Function:** Acts as the organization’s digital ambassador, answering questions based on the official mission statement and publicly available information.
 - **Purpose:** Provides an easy, low-risk entry point for experimenting with agent technology.
 
