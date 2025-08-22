@@ -8,23 +8,23 @@ Welcome to the **Agentic Systems Sandbox**! This repository contains a suite of 
 - **Function:** Acts as the organization’s digital ambassador, answering questions based on the official mission statement and publicly available information.
 - **Purpose:** Provides an easy, low-risk entry point for experimenting with agent technology.
 
-### 2. Orchestrator Agent
+### 2. [Orchestrator Agent](https://github.com/Aidex-Directory/About/blob/main/agents/Orchestrator.md)
 - **Function:** Serves as the central coordinator. Receives incoming requests and routes them to the appropriate specialized agent (About Agent, IATI Org Agent, IATI Activities Agent, Micro-Payments Agent, etc.).
 - **Purpose:** Enables modular system design, allowing organizations to add or upgrade services without restructuring their agent setup.
 
-### 3. IATI Org Agent
+### 3. [IATI Org Agent](https://github.com/Aidex-Directory/About/blob/main/agents/IATI-Org.md)
 - **Function:** Returns detailed organizational information by parsing the IATI Org XML file submitted by the organization to the International Aid Transparency Initiative (IATI).
 - **Purpose:** Promotes transparency and data interoperability using a key sector standard.
 
-### 4. IATI Activities Agent
+### 4. [IATI Activities Agent](https://github.com/Aidex-Directory/About/blob/main/agents/IATI-Activities.md)
 - **Function:** Exposes comprehensive project or activity information based on the organization’s IATI Activity XML files.
 - **Purpose:** Makes project portfolios discoverable and machine-readable, enabling evidence-based analysis and reporting.
 
-### 5. Micro-Payments Agent
+### 5. [Micro-Payments Agent](https://github.com/Aidex-Directory/About/blob/main/agents/Micro-Payments.md)
 - **Function:** Facilitates micro-transactions, enabling agents to charge for certain services/data and pay other agents or organizations for theirs.
 - **Purpose:** Lets organizations prototype agent-powered, pay-per-use models and incentivize open contributions safely.
 
-### 6. Papers Agent
+### 6. [Papers Parser Agent](https://github.com/Aidex-Directory/About/blob/main/agents/Papers-Parser.md)
 - **Role:** Parses PDF documents and answers both standardized and custom questions about their content. Enables query monitoring and parser/model improvement.
 - **Purpose:** Unlocks insights from reports and papers, supports custom document parsing, and advances transparency and knowledge management.
 
