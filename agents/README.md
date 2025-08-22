@@ -41,6 +41,7 @@ These agents are designed for **modularity and interoperability**, making it eas
 2. The Orchestration Agent sends the mission query to the About Agent, and project queries to the IATI Activities Agent.
 3. If the user requests a detailed report from a research paper, the Orchestration Agent invokes the Papers Agent for answers.
 4. Accessing premium analyses or reports? The Orchestration Agent and Micro-Payments Agent handle payment and release the requested information.
+5. Employ the Search Visibility & Evaluation Agent to continually monitor how all outputs are represented online—fine-tuning web, agent, and content strategy over time.
 
 This flexible design helps organizations move from simple experiments to production-grade, federated agentic systems.
 
