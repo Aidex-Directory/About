@@ -50,3 +50,5 @@ As AI-powered search evolves and agentic systems increasingly mediate informatio
 #### Get Involved
 
 **Aidex** is an open source community initiative run by volunteers. It is overseen, supported, and managed by member organizations and their partners. To get involved or to learn more about the initiative, **contact**: brent(at)aidex.ngo
+
+* Currently, the initiative is recruiting volunteers to work on developing an [Agentic Sandbox](https://github.com/Aidex-Directory/About/blob/main/agents/README.md) and suite of basic agents for organization members to experiment with.
