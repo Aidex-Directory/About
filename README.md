@@ -45,7 +45,7 @@ As AI-powered search evolves and agentic systems increasingly mediate informatio
 
 * **Citation dynamics**: Analyzing how aid-related web content, PDFs, and XML data are cited by AI search engines, and testing how controlled content modifications affect visibility and integration into AI-generated answers.
 * **Agent integration**: Investigating how embedding agents into search processes influences accuracy, reliability, and diversity of information delivered to end users.
-* **Benchmarking systems**: Comparing AI search engine outputs with those of agentic knowledge-sharing systems by systematically varying content inputs, establishing search as a baseline, and measuring whether agentic approaches can meet or surpass it.
+* **Benchmarking systems**: Comparing AI search engine outputs with those of agentic knowledge-sharing systems by systematically varying content inputs, establishing search as a baseline, and measuring whether improvements in agentic approaches can enable agentic systems to meet or exceed parity with AI search.
 
 #### Get Involved
 
