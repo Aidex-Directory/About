@@ -1,6 +1,6 @@
 # Search Visibility & Evaluation Agent
 
-The **Search Visibility & Evaluation Agent** is an advanced open source tool that enables organizations to proactively monitor, test, and optimize how their web presence and public information is referenced by modern AI search engines and retrieval-augmented systems. By integrating web governance, AI-oriented SEO, and comparative benchmarking, this agent empowers organizations to safeguard their digital reputation and maximize their information’s impact.
+The **AEO Agent** is an advanced open source tool that enables organizations to proactively monitor, test, and optimize how their web presence and public information is referenced by modern AI search engines and retrieval-augmented systems. By integrating web governance, AI-oriented SEO, and comparative benchmarking, this agent empowers organizations to safeguard their digital reputation and maximize their information’s impact.
 
 ## 🔍 What Does the Search Visibility & Evaluation Agent Do?
 
@@ -56,5 +56,7 @@ This agent supports open collaboration:
 - Invite volunteers with expertise in SEO, AI, and content auditing to participate.
 - Share benchmarks, findings, and improvement ideas in the open source community.
 - Build a culture of excellence, transparency, and digital trust.
+
+  ---
 
 *The Search Visibility & Evaluation Agent gives organizations the tools to own and optimize their narrative in the age of AI, ensuring every update is seen, trusted, and accurately represented everywhere your audience searches.*
