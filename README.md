@@ -35,7 +35,7 @@ The Aidex registry is principally designed to store agent facts files. However, 
 
 ### Research
 
-Aidex supports agentic AI research with a specific emphasis on helping aid organizations develop their first agents, then plug these into agentic systems and test basic interaction and knowledge sharing. Organizations can then leverage the initiative to carry out more advanced research examining critical facets of agentic systems, like the internal logic of an agent (reflection and reasoning, identity, and wallets); the external dynamics of collaboration, human interaction, and coordination protocols; and the overarching ethical considerations that guide development for example.
+Aidex supports agentic AI research with a specific emphasis on helping aid organizations develop their [first agents](https://github.com/Aidex-Directory/About/blob/main/agents/README.md), then plug these into agentic systems and test basic interaction and knowledge sharing. Organizations can then leverage the initiative to carry out more advanced research examining critical facets of agentic systems, like the internal logic of an agent (reflection and reasoning, identity, and wallets); the external dynamics of collaboration, human interaction, and coordination protocols; and the overarching ethical considerations that guide development for example.
 
 #### Priority Research
 
