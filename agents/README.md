@@ -28,6 +28,10 @@ Welcome to the **Agentic Systems Sandbox**! This repository contains a suite of 
 - **Role:** Parses PDF documents and answers both standardized and custom questions about their content. Enables query monitoring and parser/model improvement.
 - **Purpose:** Unlocks insights from reports and papers, supports custom document parsing, and advances transparency and knowledge management.
 
+### 7. Search Visibility & Evaluation [AEO Agent](https://github.com/Aidex-Directory/About/blob/main/agents/AEO-Agent.md)
+- **Role:** Monitors, tests, and optimizes how an organization’s content appears and is used by modern AI search engines; enables A/B testing and benchmarking of agentic vs. external search outputs.
+- **Purpose:** Ensures accuracy, discoverability, and fidelity of information across the evolving AI-driven digital ecosystem.
+
 ## 🕸️ How the Agents Work Together
 
 These agents are designed for **modularity and interoperability**, making it easy for organizations to test any agent by itself or combine them into more complex workflows using the Orchestration Agent.
